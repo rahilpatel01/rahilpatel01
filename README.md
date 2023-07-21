@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vaibhavsinh Bihola 
+# Hi there 👋, I'm Rahil Patel,
   
  I am a computer engineer and aspiring full-stack web developer. I have experience with ReactJS, JavaScript, HTML5, CSS3, Node.js, Express.js, and SQL. I am passionate about learning new technologies and creating web applications that are intuitive and user-friendly. 
   
